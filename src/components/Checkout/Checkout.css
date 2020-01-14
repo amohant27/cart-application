@@ -1,0 +1,31 @@
+.cart-display-items{
+    margin-top: 5%;
+    border: 1px solid #dae0e5;
+}
+
+.overall-display{
+    margin:2%;
+}
+.overall-display-price{
+    margin:5%;
+}
+
+.font-remove{
+    font-weight:600;
+}
+
+.img-size{
+    width:75%;
+}
+.border-p{
+    border: 1px solid black;
+    width:100%;
+}
+.items-in-cart{
+    margin-top: 5%;
+    font-weight:600;
+}
+
+.margin-div{
+    /* margin-top:3% */
+}

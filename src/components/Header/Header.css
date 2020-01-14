@@ -1,0 +1,10 @@
+.container-class{
+    background-color: #007bffdb;
+    height: 7%;
+    width: 100%;
+    position: absolute;
+}
+.div-float-left{
+    float: left;
+    width:100%
+}

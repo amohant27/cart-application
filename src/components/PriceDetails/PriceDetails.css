@@ -1,0 +1,21 @@
+.price-details-class{
+    border-left: 1px solid lightgray;
+    height:120%;
+    width:100%;
+}
+.ind-elem{
+    margin-top: 2%;
+    margin-left: -40%;
+    font-weight: 900;
+}  
+
+.ind-elem-discount{
+    margin-top: 2%;
+    margin-left: -55%;
+    font-weight: 900;
+}  
+.ind-elem-total{
+    margin-top: 2%;
+    margin-left: 8%;
+    font-weight: 700;
+}  
